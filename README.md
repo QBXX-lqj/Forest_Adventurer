@@ -1,2 +1,2 @@
 # Forest_Adventurer
- the first game of  us
+ the first game of us.
